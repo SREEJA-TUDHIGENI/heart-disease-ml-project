@@ -1,6 +1,6 @@
 # Heart Disease ML Project
 
-This is a beginner-friendly supervised machine learning project using the UCI Heart Disease dataset.
+This is supervised machine learning project using the UCI Heart Disease dataset.
 
 ---
 
